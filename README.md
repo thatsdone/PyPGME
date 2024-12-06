@@ -38,7 +38,7 @@ Just place PyPGME somewhere on your GPU server. For example, /usr/local/bin.
 
 ## Description
 
-By default PyPGME listens on tcp 19101. You can cange listen port and address
+By default PyPGME listens on tcp 19101. You can change listen port and address
 using -p and -b options.
 
 If you like power usage information too that is not included in metrics of
